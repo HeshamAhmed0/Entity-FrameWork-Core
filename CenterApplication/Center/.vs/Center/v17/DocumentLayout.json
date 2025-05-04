@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Entity FrameWork\\CenterApplication\\Center\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\applicationdbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\applicationdbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\transaction\\insertstatemnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\transaction\\insertstatemnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\selectstatement\\selectfromdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\selectstatement\\selectfromdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\removestatement\\removefromdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\removestatement\\removefromdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\models\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\models\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|d:\\entity framework\\centerapplication\\center\\center\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE0B8FA-E03A-4053-BFC6-525D58D84DE9}|Center\\Center.csproj|solutionrelative:center\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Center\\Models\\Department.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Department.cs",
+              "RelativeToolTip": "Center\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:51:28.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Constructor.cs",
+              "RelativeDocumentMoniker": "Center\\Models\\Constructor.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Constructor.cs",
+              "RelativeToolTip": "Center\\Models\\Constructor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:12:05.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Center\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Center\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:51:13.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectFromDatabase.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\SelectStatement\\SelectFromDatabase.cs",
+              "RelativeDocumentMoniker": "Center\\SelectStatement\\SelectFromDatabase.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\SelectStatement\\SelectFromDatabase.cs",
+              "RelativeToolTip": "Center\\SelectStatement\\SelectFromDatabase.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:30:31.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Program.cs",
+              "RelativeDocumentMoniker": "Center\\Program.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Program.cs",
+              "RelativeToolTip": "Center\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:05:36.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveFromDataBase.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\RemoveStatement\\RemoveFromDataBase.cs",
+              "RelativeDocumentMoniker": "Center\\RemoveStatement\\RemoveFromDataBase.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\RemoveStatement\\RemoveFromDataBase.cs",
+              "RelativeToolTip": "Center\\RemoveStatement\\RemoveFromDataBase.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:04:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Start.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Start.cs",
+              "RelativeDocumentMoniker": "Center\\Start.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Start.cs",
+              "RelativeToolTip": "Center\\Start.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:38:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertStatemnet.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Transaction\\InsertStatemnet.cs",
+              "RelativeDocumentMoniker": "Center\\Transaction\\InsertStatemnet.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Transaction\\InsertStatemnet.cs",
+              "RelativeToolTip": "Center\\Transaction\\InsertStatemnet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:36:14.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Center\\Models\\Student.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Student.cs",
+              "RelativeToolTip": "Center\\Models\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:58:15.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "Center\\Models\\Courses.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\Models\\Courses.cs",
+              "RelativeToolTip": "Center\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:49:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\ApplicationDbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Center\\ApplicationDbContexts\\AppDbContext.cs",
+              "ToolTip": "D:\\Entity FrameWork\\CenterApplication\\Center\\Center\\ApplicationDbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "Center\\ApplicationDbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:17:54.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
