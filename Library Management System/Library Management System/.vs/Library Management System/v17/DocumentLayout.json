@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|d:\\entity framework\\library management system\\library management system\\library management system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|d:\\entity framework\\library management system\\library management system\\library management system\\start\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\start\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|d:\\entity framework\\library management system\\library management system\\library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|d:\\entity framework\\library management system\\library management system\\library management system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|d:\\entity framework\\library management system\\library management system\\library management system\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|d:\\entity framework\\library management system\\library management system\\library management system\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF91E3A4-587C-4CEF-8439-E6C9D5E20303}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sections.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Start\\Sections.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Start\\Sections.cs",
+              "ToolTip": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Start\\Sections.cs",
+              "RelativeToolTip": "Library Management System\\Start\\Sections.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:58:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Person.cs",
+              "ToolTip": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Models\\Person.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:01:35.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Library Management System\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Library Management System\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:55:41.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Department.cs",
+              "ToolTip": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Models\\Department.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:52:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Book.cs",
+              "ToolTip": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Models\\Book.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:50:50.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Program.cs",
+              "ToolTip": "D:\\Entity FrameWork\\Library Management System\\Library Management System\\Library Management System\\Program.cs",
+              "RelativeToolTip": "Library Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:55:56.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
